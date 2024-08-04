@@ -1,5 +1,4 @@
 # SN-Crop-Power-BI-Dashboard
-This repository holds my first Power BI project - the SN Crop Dashboard!
 
 This project harnesses the power of Power BI to bring insights and visualizations to life, specifically focused on crop data.
 
